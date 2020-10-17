@@ -44,6 +44,11 @@ Adicionalmente, pueden encontrar nuestro proyecto específico haciendo click [aq
 
 O bien, el link directo: https://jdufm.shinyapps.io/parcial2/
 
+**Preview:**
+
+![Preview](https://imgur.com/gallery/74NbtPh)
+
+
 ## Docker - AWS (?)
 
 WIP
