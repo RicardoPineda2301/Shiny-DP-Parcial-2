@@ -46,7 +46,7 @@ O bien, el link directo: https://jdufm.shinyapps.io/parcial2/
 
 **Preview:**
 
-![Preview](https://imgur.com/gallery/74NbtPh)
+![Preview](https://i.imgur.com/hJO3uoT.png)
 
 
 ## Docker - AWS (?)
