@@ -10,11 +10,28 @@ Además, está dentro del mismo, otro directorio llamado **data** en donde se en
 
 ## Shiny App
 
-La aplicación Shiny de este proyecto, cuenta con las siguientes caracteristhicas:
+La aplicación Shiny de este proyecto, cuenta con las siguientes pestañas y caracteristicas:
 
-- 1
+- **Estadísticas de los datos**
 
-- 2
+a
+
+- Filtar la data por parámetros
+
+a
+
+- Video seleccionado
+
+a
+
+- Likes VS Visitas
+a
+
+- Likes VS Comentarios
+a
+
+- Parámetros de la URL
+a
 
 ## Shiny Apps IO
 
