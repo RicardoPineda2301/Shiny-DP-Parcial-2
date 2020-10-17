@@ -12,7 +12,7 @@ Además, está dentro del mismo, otro directorio llamado **data** en donde se en
 
 La aplicación Shiny de este proyecto, cuenta con las siguientes pestañas y caracteristicas:
 
-- **Estadísticas de los datos**
+- Estadísticas de los datos
 
 a
 
@@ -25,12 +25,15 @@ a
 a
 
 - Likes VS Visitas
+
 a
 
 - Likes VS Comentarios
+
 a
 
 - Parámetros de la URL
+
 a
 
 ## Shiny Apps IO
