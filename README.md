@@ -49,7 +49,7 @@ O bien, el link directo: https://jdufm.shinyapps.io/parcial2/
 ![Preview](https://i.imgur.com/hJO3uoT.png)
 
 
-## Docker - AWS (?)
+## Docker (?)
 
 WIP
 
