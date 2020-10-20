@@ -1,4 +1,17 @@
-# Shiny-DP-Parcial-2
+# Shiny Apps IO
+
+El proyecto fue publicado en la plataforma de Shiny Apps IO, la cual pueden encontrar [aqui](https://www.shinyapps.io/)
+
+Adicionalmente, pueden encontrar nuestro proyecto específico haciendo click [aqui](https://jdufm.shinyapps.io/parcial2/)
+
+O bien, el link directo: https://jdufm.shinyapps.io/parcial2/
+
+**Preview:**
+
+![Preview](https://i.imgur.com/hJO3uoT.png)
+
+
+# Source
 
 En el directorio **shiny** estan los scripts para el Shiny:
 
@@ -62,16 +75,5 @@ Adicionalmente, hay un slider de frecuencia, en el que puede seleccionar entre 1
 
 Por último, se encuentra otro slider que controla la cantidad de palabras que se desea que aparezcan en la word cloud. Puede ir desde 1 hasta 75.
 
-# Shiny Apps IO
-
-El proyecto fue publicado en la plataforma de Shiny Apps IO, la cual pueden encontrar [aqui](https://www.shinyapps.io/)
-
-Adicionalmente, pueden encontrar nuestro proyecto específico haciendo click [aqui](https://jdufm.shinyapps.io/parcial2/)
-
-O bien, el link directo: https://jdufm.shinyapps.io/parcial2/
-
-**Preview:**
-
-![Preview](https://i.imgur.com/hJO3uoT.png)
 
 
