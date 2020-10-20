@@ -20,13 +20,13 @@ Se encuentra:
 
 Una gráfica de frecuencia ordenada según la cantidad de views de los vídeos.
 
-El vídeo con mayor cantidad de likes
+- El vídeo con mayor cantidad de likes
 
-El vídeo con mayor cantidad de views
+- El vídeo con mayor cantidad de views
 
-El vídeo con mayor cantidad de dislikes
+- El vídeo con mayor cantidad de dislikes
 
-El vídeo con la mayor cantidad de 'Marcado como Favorito'
+- El vídeo con la mayor cantidad de 'Marcado como Favorito'
 
 ## Filtar la data por parámetros
 
