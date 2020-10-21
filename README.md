@@ -46,7 +46,11 @@ En esta pestaña, se encuentra desplegado el vídeo que el usuario haya seleccio
 
 Se encuentra:
 
-El titulo del vídeo, la descripción del mismo, así como el vídeo en sí para poder visualizarlo desde la misma aplicación Shiny.
+- El titulo del vídeo
+
+- La descripción del vídeo
+
+- El vídeo en sí para poder visualizarlo desde la misma aplicación Shiny.
 
 ## Likes VS Visitas
 
